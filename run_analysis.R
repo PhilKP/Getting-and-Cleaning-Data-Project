@@ -5,14 +5,14 @@
 ##  Assumptions:
 ##  ~~~~~~~~~~~~
 ##  
-##  1. Data is downloaded and unzipped into <working dir>/c3projDataset
+##  1. Data is downloaded and unzipped into <working dir>/UCI HAR Dataset
 ##  
 
 run_analysis <- function(){
 
   
   # Part-1: verify the data set path 
-  setwd("C:/Users/pphilipose/Documents/r_working_dir")
+  
   if(! dir.exists("./UCI HAR Dataset")) { stop ("Data dir missing. Program terminated")}
  
   
