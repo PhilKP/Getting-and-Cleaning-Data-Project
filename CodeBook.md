@@ -1,7 +1,7 @@
 ## Project work towards Getting and Cleaning Data
 
 ###1 Description
-This project work towards partial completion of **Getting and Cleaning Data** course from Johns Hopkins. The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The output is a tidy data set that can be used for later analysis
+This project work is towards partial completion of **Getting and Cleaning Data** course from Johns Hopkins. The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The output is a tidy data set that can be used for later analysis
 
 ###1.1 Source Data
 A full description of the data used in this project can be found at [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
