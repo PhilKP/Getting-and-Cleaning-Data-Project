@@ -45,7 +45,7 @@ Following files are used to source the testing datasets:
 
 
 ###2.5 Part-5
-Merging the training & testing datasets. Building the resulting dataset with the Identifiers
+Merge the training & testing datasets. Building the resulting dataset with the Identifiers
 
 - **Subject** - The Id of the test subject
 - **Activity** - The type of activity being performed at the time of measurements
@@ -56,7 +56,7 @@ Finally converting the Subjects and Activities to Factors
 
 ###2.6 Part-6
 Reshaping by melting the dataset by taking **Subjects** and **Activities** as the Ids. 
-And then casting the dataframe with rest of the variables, bu its mean across **Subjects** and **Activities**
+And then casting the dataframe with rest of the variables, by its mean across **Subjects** and **Activities**
 
 ###2.7 Part-7
 Write the result into **tidy.txt**
