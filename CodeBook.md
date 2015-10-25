@@ -55,7 +55,7 @@ Finally converting the Subjects and Activities to Factors
 
 
 ###2.6 Part-6
-Reshaping by melting the dataset by taking **Subjects** and **Activities** as the Ids. 
+Reshaping by melting the dataset with **Subjects** and **Activities** as the Ids. 
 And then casting the dataframe with rest of the variables, by its mean across **Subjects** and **Activities**
 
 ###2.7 Part-7
