@@ -1,16 +1,11 @@
 ##  
 ##  Course Id: getdata-033
-##  Author : XXXXXXXXXXXXXXXXXXXXXXXXXXXX (hidden for reason of peer evaluation)
 ##  Date: 23 Oct 2015
 ##  
 ##  Assumptions:
 ##  ~~~~~~~~~~~~
 ##  
 ##  1. Data is downloaded and unzipped into <working dir>/c3projDataset
-##  
-##  
-##  
-##  
 ##  
 
 run_analysis <- function(){
